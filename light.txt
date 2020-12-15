@@ -8,4 +8,5 @@ git remote add:
 Won't take space! It's more like a pointer! It doesn't increase your disk consumption. It just gets a snapshot of what branches are available and their git commit history I believe. It doesn't contain the actual file/folders of your project
 git remote add just creates an entry in your git config that specifies a name for a partiular URL. You must have an existing git repo to use this.
 
-
+yeah this file in remote repo folder after cloning
+now in rr file doesnt exit as it is not pushed 
