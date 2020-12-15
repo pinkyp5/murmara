@@ -1,0 +1,11 @@
+clone:
+
+Will physically download the files into your computer. It will take space from your computer. If the repo is 200Mb, then it will download that all and place it in the directory you cloned.
+git clone creates a new git repository by copying an existing one located at the URI you specify.
+
+git remote add:
+
+Won't take space! It's more like a pointer! It doesn't increase your disk consumption. It just gets a snapshot of what branches are available and their git commit history I believe. It doesn't contain the actual file/folders of your project
+git remote add just creates an entry in your git config that specifies a name for a partiular URL. You must have an existing git repo to use this.
+
+
